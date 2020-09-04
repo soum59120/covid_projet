@@ -1,4 +1,4 @@
-#### Ce projet contient plusieurs dossiers.)
+#### Ce projet contient plusieurs dossiers.
  - Installer les packages requis (voir "dashboard/requirements.txt")
  - Données disponibles dans flux_data
 
