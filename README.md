@@ -1,9 +1,9 @@
 #### Ce projet contient plusieurs dossiers.
  - Installer les packages requis (voir "dashboard/requirements.txt")
- - Données disponibles dans flux_data
+ - Données disponibles dans /data
 
 ## **1. Dashboard  (/dashboard)**
-    - Importer les données depuis le dossier "/flux_data"
+    - Importer les données depuis le dossier "/data"
     - Lancer le script "app.py" pour configurer et déployer le tableau de bord.
 
 
