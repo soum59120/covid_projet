@@ -7,7 +7,7 @@
     - Lancer le script "app.py" pour configurer et déployer le tableau de bord.
 
 
-### Disponible également sur le lien suivant : https://covid19-soumaya.herokuapp.com/. Voici l'aperçu ci-joint : 
+### Disponible également sur le lien suivant : https://covid19-soumaya.herokuapp.com/. 
 
 <!-- blank line -->
 ----
